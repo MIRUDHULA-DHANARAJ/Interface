@@ -83,12 +83,10 @@ namespace System
 
 ## Output:
 ## WITHDRAWING:
-
 ![91](https://github.com/MIRUDHULA-DHANARAJ/Interface/assets/94828147/d786176f-b5d7-4806-8487-3242ff56e232)
 
 ## DEPOSITING:
 
 ![92](https://github.com/MIRUDHULA-DHANARAJ/Interface/assets/94828147/5ff55cc5-2f68-4b1b-b1dc-35e89738c085)
-
 ## Result:
 Thus a C# program using interface concept is written and executed successfully.
